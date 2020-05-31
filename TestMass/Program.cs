@@ -31,8 +31,8 @@ namespace TestMass
             //}
 
             int sum = 0;
-            int[] sumRow = new int[4];
-            int[,] myArray = new int[4, 4];
+            int[] sumRow = new int[5];
+            int[,] myArray = new int[5, 5];
             Random rnd = new Random();
             for (int i = 0; i < myArray.GetLength(0); i++)
             {
